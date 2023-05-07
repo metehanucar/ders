@@ -1,0 +1,2 @@
+# ders
+ders için açılmıştır
